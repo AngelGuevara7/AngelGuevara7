@@ -9,11 +9,11 @@
 
 - 📫 How to reach me **angelguevara9834@gmail.com**
 
-- 📄 Know about my experiences [I'm working as a data scientist at Vocality.ai. Focus on Text-To-Speech models.](I'm working as a data scientist at Vocality.ai. Focus on Text-To-Speech models.)
+- 📄 Know about my experiences [I'm working as a data scientist at Vocalityai. Focus on Text-To-Speech models. Other interests are: RAGs, computer vision or LLMs.](I'm working as a data scientist at Vocalityai. Focus on Text-To-Speech models. Other interests are: RAGs, computer vision or LLMs.)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/ángel guevara ros" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ángel guevara ros" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ángel-guevara-ros-ab8b17181" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ángel-guevara-ros-ab8b17181" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
