@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **angelguevara9834@gmail.com**
 
-- 📄 Know about my experiences [I'm working as a data scientist at Vocalityai. Focus on Text-To-Speech models. Other interests are: RAGs, computer vision or LLMs.](I'm working as a data scientist at Vocalityai. Focus on Text-To-Speech models. Other interests are: RAGs, computer vision or LLMs.)
+- 📄 Know about my experiences **I'm working as a data scientist at Vocalityai. Focus on Text-To-Speech models. Other interests are: RAGs, computer vision or LLMs.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
