@@ -7,9 +7,11 @@
 
 - 🔭 I’m currently working on **Text-To-Speech models**
 
+- 🌱 I’m currently learning **About Google Cloud Platform**
+
 - 📫 How to reach me **angelguevara9834@gmail.com**
 
-- 📄 Know about my experiences **I'm working as a data scientist at Vocalityai. Focus on Text-To-Speech models. Other interests are: RAGs, computer vision or LLMs.**
+- 📄 Know about my experiences [I'm working as a data scientist at Vocalityai. Focus on Text-To-Speech models. Other interests are: RAGs, computer vision or LLMs.](I'm working as a data scientist at Vocalityai. Focus on Text-To-Speech models. Other interests are: RAGs, computer vision or LLMs.)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -22,4 +24,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=angelguevara7&show_icons=true&locale=en&layout=compact" alt="angelguevara7" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=angelguevara7&show_icons=true&locale=en" alt="angelguevara7" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=angelguevara7&" alt="angelguevara7" /></p>
 
